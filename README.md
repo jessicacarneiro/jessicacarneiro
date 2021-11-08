@@ -1,16 +1,20 @@
 # Hi, I'm Jéssica! 👋👩‍💻
 
-<!--
-**jessicacarneiro/jessicacarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a BS degree in Computer Science ([UFMG][ufmg], 2018). I currently work as a Software Developer.
 
-Here are some ideas to get you started:
+__I'm also at:__
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Goodreads][goodreads] 📚
+* [Google Scholar][scholar] 📝
+* [Currículo Lattes][lattes] 💼
+* [LinkedIn][linkedin] 🔗
+* [Stack Overflow][stack] 💻
+* [Twitter][twitter] 🐦
+
+[lattes]: http://lattes.cnpq.br/2183836981411896
+[linkedin]: https://linkedin.com/in/jessicacarneiro
+[goodreads]: http://goodreads.com/jessicacarneiro
+[scholar]: https://scholar.google.com.br/citations?user=JjtW7EwAAAAJ&hl
+[stack]: http://stackoverflow.com/users/5363892
+[twitter]: http://twitter.com/jessicacarneir0
+[ufmg]: http://www.ufmg.br/
