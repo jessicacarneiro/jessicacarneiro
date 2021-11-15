@@ -1,6 +1,6 @@
 # Hi, I'm Jéssica! 👋👩‍💻
 
-I have a BS degree in Computer Science ([UFMG][ufmg], 2018). I currently work as a Software Developer.
+I have a BS degree in Computer Science ([UFMG][ufmg], 2018). I currently work as a backend software developer. I have worked with several languages, frameworks, and technologies such as Java, Kotlin, Python, Typescript, Javascript, C#, Spring, Flask, NodeJS, .NET, Azure DevOps.
 
 __I'm also at:__
 
