@@ -18,3 +18,8 @@ __I'm also at:__
 [stack]: http://stackoverflow.com/users/5363892
 [twitter]: http://twitter.com/jessicacarneir0
 [ufmg]: http://www.ufmg.br/
+
+__Academic papers published:__
+
+* Evaluating Post-quantum Signatures for IoT Devices ([link](https://link.springer.com/chapter/10.1007/978-3-030-19223-5_8))
+* Avaliação de	assinaturas baseadas em hash para a	Internet das Coisas ([link](https://sbseg2017.redes.unb.br/wp-content/uploads/2017/11/sbseg2017_wticg_Avalia%C3%A7%C3%A3o-de-assinaturas-baseadas-em-hash.pdf))
