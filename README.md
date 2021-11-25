@@ -2,22 +2,6 @@
 
 I have a BS degree in Computer Science ([UFMG][ufmg], 2018). I currently work as a backend software developer. I have worked with several languages, frameworks, and technologies such as Java, Kotlin, Python, Typescript, Javascript, C#, Spring, Flask, NodeJS, .NET, Azure DevOps.
 
-<br />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jessicacarneiro&count_private=true&show_icons=true&theme=merko" />
-</a>
-
-<br />
-<br />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacarneiro&layout=compact&theme=merko" />
-</a>
-
-<br />
-<br />
-
 __I'm also at:__
 
 * [Goodreads][goodreads] 📚
