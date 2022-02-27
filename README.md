@@ -19,6 +19,22 @@ __I'm also at:__
 [twitter]: http://twitter.com/jessicacarneir0
 [ufmg]: http://www.ufmg.br/
 
+<br />
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jessicacarneiro&count_private=true&show_icons=true&theme=merko" />
+ </a>
+
+ <br />
+ <br />
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacarneiro&layout=compact&theme=merko" />
+ </a>
+
+ <br />
+ <br />
+
 __Academic papers published:__
 
 * Evaluating Post-quantum Signatures for IoT Devices ([link](https://link.springer.com/chapter/10.1007/978-3-030-19223-5_8))
