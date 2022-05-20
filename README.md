@@ -22,14 +22,14 @@ __I'm also at:__
 <br />
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jessicacarneiro&count_private=true&show_icons=true&theme=merko" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jessicacarneiro&count_private=true&show_icons=true&theme=default" />
  </a>
 
  <br />
  <br />
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacarneiro&layout=compact&theme=merko" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacarneiro&layout=compact&theme=default" />
  </a>
 
  <br />
