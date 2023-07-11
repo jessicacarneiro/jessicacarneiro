@@ -35,10 +35,6 @@ __I'm also at:__
  <br />
  <br />
 
- [![Jéssica's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jessicacarneiro)](https://github.com/anuraghazra/github-readme-stats)
-
- <br />
- <br />
 
 __Academic papers published:__
 
