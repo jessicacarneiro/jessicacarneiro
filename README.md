@@ -23,3 +23,7 @@ __Academic papers published:__
 
 * Evaluating Post-quantum Signatures for IoT Devices ([link](https://link.springer.com/chapter/10.1007/978-3-030-19223-5_8))
 * Avaliação de	assinaturas baseadas em hash para a	Internet das Coisas ([link](https://sbseg2017.redes.unb.br/wp-content/uploads/2017/11/sbseg2017_wticg_Avalia%C3%A7%C3%A3o-de-assinaturas-baseadas-em-hash.pdf))
+* FLAT: Federated lightweight authentication for the Internet of Things
+* A federated lightweight authentication protocol for the internet of things
+* FLAT: Um Protocolo de Autenticação Federada para a Internet das Coisas
+* Autenticação Federada para IoT Aplicada a um Sistema Automático de Estacionamento
