@@ -17,23 +17,6 @@ __I'm also at:__
 [scholar]: https://scholar.google.com.br/citations?user=JjtW7EwAAAAJ&hl
 [stack]: http://stackoverflow.com/users/5363892
 [twitter]: http://twitter.com/jessicacarneir0
-[ufmg]: http://www.ufmg.br/
-
-<br />
-
- <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jessicacarneiro&count_private=true&show_icons=true&theme=dracula" />
- </a>
-
- <br />
- <br />
-
- <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacarneiro&layout=compact&theme=dracula" />
- </a>
-
- <br />
- <br />
 
 
 __Academic papers published:__
